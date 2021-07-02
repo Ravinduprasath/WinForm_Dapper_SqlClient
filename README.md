@@ -3,7 +3,7 @@
 A simple .net 5 win form application<br/>
 
 * Used Nuget Packages<br/>
-📌 Dapper 2.0.90 <br/>
+📌 Dapper 2.0.90 Or Dapper.SimpleCRUD 2.3.0 <br/>
 📌 Microsoft.Data.SqlClient 3.0.0 <br/>
 📌 System.Configuration.ConfigurationManager 5.0.0<br/>
 
@@ -17,5 +17,8 @@ A simple .net 5 win form application<br/>
 
 <ins> Sql Data Base Structure </ins> <br/>
 
-![devenv_9p5xTsnNXS](https://user-images.githubusercontent.com/76606140/124156799-af4e1d80-dab5-11eb-8ca6-57c2a1e21afe.png)
+![devenv_9p5xTsnNXS](https://user-images.githubusercontent.com/76606140/124156799-af4e1d80-dab5-11eb-8ca6-57c2a1e21afe.png) 
+
+<br/>
+Note - Since This Is A Simple Crud Application We Can Use Dapper.SimpleCrud (No Need To Change DataAccess Class)
 
