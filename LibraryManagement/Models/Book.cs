@@ -20,7 +20,7 @@ namespace LibraryManagement.Models
 
         public string BookInfo
         {
-            get { return $"Name:{BookName} |   Author: {Author} |   Categoty:{Category} |   Quantity:{Quantity}";}
+            get { return $"Name:{BookName} |   Author: {Author} |   Category:{Category} |   Quantity:{Quantity}";}
         }
 
     }
